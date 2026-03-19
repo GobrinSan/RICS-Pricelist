@@ -454,5 +454,65 @@
     "ModSource": "Vanilla Landmarks Expanded",
     "modactive": true,
     "Version": 1
+  },
+  "SnowyThunderStorm": {
+    "DefName": "SnowyThunderStorm",
+    "Label": "thundersnow",
+    "Description": "A rare winter phenomenon where heavy snow falls with lightning and thunder. The snow reduces visibility and movement while lightning poses fire risks.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "[CAP] Thunder Snow",
+    "modactive": true,
+    "Version": 1
+  },
+  "DeltaStreamSTNL": {
+    "DefName": "DeltaStreamSTNL",
+    "Label": "Delta Stream",
+    "Description": "A large tornado in the sky, strong enough to overpower other weather conditions, wind speed is increased massively.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "VPE - Aeromancer",
+    "modactive": true,
+    "Version": 1
+  },
+  "TorrentialRainSTNL": {
+    "DefName": "TorrentialRainSTNL",
+    "Label": "torrential rain",
+    "Description": "Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "VPE - Hydromancer",
+    "modactive": true,
+    "Version": 1
+  },
+  "OriginiumPollutionSTNL": {
+    "DefName": "OriginiumPollutionSTNL",
+    "Label": "Originium Pollution",
+    "Description": "A cloud of originium pollution is passing in the area, causing burns to everyone without anti toxin gear.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "VPE - Originium",
+    "modactive": true,
+    "Version": 1
+  },
+  "IRBM_NuclearWinter_Weather": {
+    "DefName": "IRBM_NuclearWinter_Weather",
+    "Label": "nuclear winter",
+    "Description": "A combination of volcanic ash, acidic smog, and radioactive fallout. The sky is dark, and the air is lethal.",
+    "BaseCost": 100,
+    "KarmaType": "Good",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "InterRim Ballistic Missile",
+    "modactive": true,
+    "Version": 1
   }
 }
