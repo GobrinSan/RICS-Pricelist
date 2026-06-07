@@ -1514,7 +1514,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Factions Expanded - Pirates",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VFEP_Shellcasket_0": {
@@ -1533,7 +1533,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Factions Expanded - Pirates",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VCEF_Fisherman_0": {
@@ -1552,7 +1552,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Fishing Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VME_Elder_0": {
@@ -3025,7 +3025,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VAEI_VoidTouched_0": {
@@ -3044,7 +3044,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VAEI_Germaphobe_0": {
@@ -3065,7 +3065,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VAEI_Noncommittal_0": {
@@ -3086,7 +3086,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VAEI_Unstable_0": {
@@ -3108,7 +3108,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VAEI_Distractable_0": {
@@ -3129,7 +3129,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VAEI_MoodSwings_0": {
@@ -3150,7 +3150,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Anomaly Expanded - Insanity",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VTE_AbsentMinded_0": {
@@ -4265,7 +4265,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Races Expanded - Highmate",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VRE_Distressed_0": {
@@ -4284,7 +4284,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Races Expanded - Highmate",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Wolfein_PureBlood_0": {
@@ -4307,7 +4307,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Wolfein Race",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "LazyCat_0": {
@@ -4328,7 +4328,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Kiiro Race",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "GreedyCat_0": {
@@ -4347,7 +4347,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Kiiro Race",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "FireFear_0": {
@@ -4366,7 +4366,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Kiiro Race",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "ToxicResistance_0": {
@@ -4387,7 +4387,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Kiiro Race",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "SharpEye_0": {
@@ -4408,7 +4408,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Kiiro Race",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "OldWound_0": {
@@ -4430,7 +4430,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Kiiro Race",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "KittyValor_0": {
@@ -4458,7 +4458,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Kiiro Race",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "XTRedScorpio_0": {
@@ -4486,7 +4486,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Xeva Faction",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "XTTheQueen_0": {
@@ -4512,7 +4512,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Xeva Faction",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "XTDragon_0": {
@@ -4536,7 +4536,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Xeva Faction",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "XF_Fool_0": {
@@ -4557,7 +4557,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Xeva Faction",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "XTEvilGunner_0": {
@@ -4582,7 +4582,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Xeva Faction",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "XTVirtuousDoctor_0": {
@@ -4612,7 +4612,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Xeva Faction",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "XTEagleEye_0": {
@@ -4638,7 +4638,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Xeva Faction",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "XTTheScream_0": {
@@ -4663,7 +4663,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Xeva Faction",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "XTPirateLord_0": {
@@ -4694,7 +4694,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Xeva Faction",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "DIO_StrongsLeeway_0": {
@@ -4713,6 +4713,25 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "[Pisutatio]Diona Race",
+    "modactive": false,
+    "Version": 1
+  },
+  "IRBM_HeisenbergUncertaintyTrait_0": {
+    "DefName": "IRBM_HeisenbergUncertaintyTrait",
+    "Name": "Heisenberg uncertainty constitution",
+    "Degree": 0,
+    "Description": "Reina was born with an extreme \"uncertainty.\" This is an exceptionally rare benign genetic trait of the Heisenberg family, traceable back to the 15th century. Family legends say their ancestor was an alchemist who could miraculously escape any danger. This miracle has been passed down all the way to her.\n\nIn the eyes of others, she is like a probability cloud in a state of superposition, difficult to observe precisely.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "InterRim Ballistic Missile",
     "modactive": true,
     "Version": 1
   }

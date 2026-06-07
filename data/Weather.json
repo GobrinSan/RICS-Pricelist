@@ -224,7 +224,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Psycasts Expanded - Hemosage",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VPE_RadioactiveFog": {
@@ -380,7 +380,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VGE_ToxicDustCloud": {
@@ -392,7 +392,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VQEA_AncientComplex": {
@@ -464,7 +464,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "[CAP] Thunder Snow",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "DeltaStreamSTNL": {
@@ -476,7 +476,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "VPE - Aeromancer",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "TorrentialRainSTNL": {
@@ -488,7 +488,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "VPE - Hydromancer",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "OriginiumPollutionSTNL": {
@@ -500,15 +500,15 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "VPE - Originium",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "IRBM_NuclearWinter_Weather": {
     "DefName": "IRBM_NuclearWinter_Weather",
     "Label": "nuclear winter",
     "Description": "A combination of volcanic ash, acidic smog, and radioactive fallout. The sky is dark, and the air is lethal.",
-    "BaseCost": 100,
-    "KarmaType": "Good",
+    "BaseCost": 2000,
+    "KarmaType": "Bad",
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "InterRim Ballistic Missile",
